@@ -1,0 +1,12 @@
+---
+:id: 207282624
+:submitters:
+- :name: Havin Lim
+  :email: limhavin@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-28 22:44:30.174878000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-28 15:44:30.174878000 Z
+:status: processed
+:score: 30.0
